@@ -11,7 +11,7 @@ Newt, Hello World!!
                 / 
     ( ͡◉ ͜ʖ ͡◉)__/
 
-🌱 I’m currently learning Eloquent Book to learn in-depth JavaScript --> Goal to be a Front-end Developer
+🌱 I’m currently learning in-depth JavaScript --> Goal to be a Front-end Developer
 
 📫 **_Check out my social media_**: 
   - 🔗 [LinkedIn](https://www.linkedin.com/in/vo-nhut/)
