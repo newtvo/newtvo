@@ -17,5 +17,5 @@ Newt, Hello World!!
   - 🔗 [LinkedIn](https://www.linkedin.com/in/vo-nhut/)
   - 📷 [Instagram](https://www.instagram.com/_newtvo_/)
  
- **Visit my portfolio**
+📃 **Visit my portfolio**
   - ✉️ [My website](http://tuhnov.dx.am/)
