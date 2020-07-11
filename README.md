@@ -9,7 +9,7 @@ Newt, Hello World!!
 ----------------------------------------
                  _ "Newt, Say Hi"
                 / 
-    ( ͡◉ ͜ʖ ͡◉)__/
+    ( ͡°👅 ͡°)__/
 
 🌱 I’m currently learning in-depth JavaScript --> Goal to be a Front-end Developer
 
