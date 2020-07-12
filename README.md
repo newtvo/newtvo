@@ -19,3 +19,18 @@ Newt, Hello World!!
  
 📃 **Visit my portfolio**
   - ✉️ [My website](http://tuhnov.dx.am/)
+  
+  
+  ████░░░░░░ 40% **in JS**
+  
+ ✅ What I have achieved so far:
+  - JavaScript:
+   1. Recursion
+   2. Closures
+   3. Loops
+  - ES6:
+   1. Arrow Functions
+  - Functional Methods:
+   1. .Map
+   2. .Filter
+   3. .Reduce
