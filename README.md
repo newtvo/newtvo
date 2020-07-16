@@ -21,7 +21,7 @@ Newt, Hello World!!
   - ✉️ [My website](http://tuhnov.dx.am/)
   
   
- █████▒░░░░░░ 45% **in JS**
+ ████▓░░░░░ 47%	 **in JS**
   
  ✅ What I have achieved so far:
   - JavaScript:
