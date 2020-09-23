@@ -12,7 +12,7 @@ Newt, Hello World!!
                 / 
     ( ͡°👅 ͡°)__/
 
-🌱 I’m currently learning in-depth JavaScript --> Goal to be a Front-end Developer
+🌱 I’m currently learning in-depth JavaScript --> Goal to be a Front-end Developer. Data Science Enthusiastic!
 
 📫 **_Check out my social media_**: 
   - 🔗 [LinkedIn](https://www.linkedin.com/in/vo-nhut/)
