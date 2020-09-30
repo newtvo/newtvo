@@ -20,6 +20,8 @@ Newt, Hello World!!
  
 📃 **Visit my portfolio**
   - ✉️ [My website](http://tuhnov.dx.am/)
+🌀 **My work**
+ - ✉️ [My personal website](https://dev-work-portfolio.web.app/)
   
   
  ██████░░░░ 60%	 **in  JS** <br/>
