@@ -8,7 +8,7 @@ Keep updating for everyday
 ----------------------------------------
 Newt, Hello World!!
 ----------------------------------------
-                 _ "Newt, Say Hi To The World"
+                 _ "Newt, Say Hi To The World!"
                 / 
     ( ͡°👅 ͡°)__/
 
