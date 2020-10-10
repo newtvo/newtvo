@@ -25,7 +25,7 @@ Newt, Hello World!!
   
   
  ██████░░░░ 60%	 **in  JS** <br/>
- ███████░░░ 70%  **in CSS**
+ ███████░░░ 71%  **in CSS**
   
  ✅ What I have achieved so far:
   - JavaScript:
