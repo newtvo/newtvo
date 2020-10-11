@@ -38,8 +38,7 @@ Newt, Hello World!!
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=newtvo&show_icons=true" alt="newtvo" /></p>
 
 
-<!--
-🌱 I’m currently learning in-depth JavaScript --> Goal to be a Front-end Developer. Data Science Enthusiastic-->
+
 
 <!--📫  **_Check out my social media_**: 
   - 🔗 [LinkedIn](https://www.linkedin.com/in/vo-nhut/)
@@ -49,7 +48,6 @@ Newt, Hello World!!
   - ✉️ [My website](http://tuhnov.dx.am/)
 🌀 **My work**
  - ✉️ [My personal website](https://dev-work-portfolio.web.app/)
-  
   
  ██████░░░░ 60%	 **in  JS** <br/>
  ███████░░░ 71%  **in CSS**
