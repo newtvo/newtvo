@@ -19,7 +19,7 @@ Newt, Hello World!!
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=newtvo" alt="newtvo" /></a> </p>
 
-- 🔭 I’m currently working on [Covid-19 Tracker](https://github.com/newtvo/covid19_tracker)
+- 🔭 I’m currently working on [Expense Tracker](https://github.com/newtvo/expense_tracker)
 
 - 🌱 I’m currently learning **ReactJS, ML for Data Science**
 
