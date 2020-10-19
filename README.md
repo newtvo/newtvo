@@ -19,7 +19,7 @@ Newt, Hello World!!
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=newtvo" alt="newtvo" /></a> </p>
 
-- 🔭 I’m currently working on [Expense Tracker](https://thawing-wildwood-12359.herokuapp.com/)
+- 🔭 I’m currently working on UI Login for [Expense Tracker](https://thawing-wildwood-12359.herokuapp.com/)
 
 - 🌱 I’m currently learning **ReactJS, ML for Data Science**
 
