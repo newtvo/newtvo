@@ -13,7 +13,7 @@ Newt, Hello World!!
     ( ͡°👅 ͡°)__/
     
 <h1 align="center">Hi 👋, I'm Newt</h1>
-<h3 align="center">A passionate frontend developer from Montreal</h3>
+<h3 align="center">A passionate frontend developer from Vancouver</h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=newtvo&label=Profile%20views&color=0e75b6&style=flat" alt="newtvo" /> </p>-->
 
@@ -64,9 +64,7 @@ Newt, Hello World!!
   - 📷 [Instagram](https://www.instagram.com/_newtvo_/)
  
 📃 **Visit my portfolio**
-  - ✉️ [My website](http://tuhnov.dx.am/)
-🌀 **My work**
- - ✉️ [My personal website](https://dev-work-portfolio.web.app/)
+  - ✉️ [My personal website](https://newtvo-dev.web.app/)
   
  ██████░░░░ 60%	 **in  JS** <br/>
  ███████░░░ 71%  **in CSS**
