@@ -13,7 +13,7 @@ Newt, Hello World!!
     ( ͡°👅 ͡°)__/
     
 <h1 align="center">Hi 👋, I'm Newt</h1>
-<h3 align="center">A passionate frontend developer from Vancouver</h3>
+<h3 align="center">A passionate frontend developer from Toronto</h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=newtvo&label=Profile%20views&color=0e75b6&style=flat" alt="newtvo" /> </p>-->
 
@@ -21,7 +21,7 @@ Newt, Hello World!!
 
 - 🔭 I’m currently working on UI Login for [Expense Tracker](https://thawing-wildwood-12359.herokuapp.com/)
 
-- 🌱 I’m currently learning **ReactJS, ML for Data Science**
+- 🌱 I’m currently learning **Azure Cloud, ML for Data Science**
 
 - 📫 How to reach me **vo.nhut@outlook.com**
 
